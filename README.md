@@ -1,8 +1,8 @@
 # Bypass-PS-Restrictions
-This repo is about bypassing Powershell restrictions such as GPO
+This repo is about bypassing Powershell restrictions such as GPO, AV and EDR.
 
 # Testing Environment
-The file tested on environments with GPO restrictions, AV, EDR
+The file was tested on restrictions environments Windows endpoint and server with GPO restrictions, AV and EDR.
 
 # Compiling the file:
 In CMD copy and paste the following command:
