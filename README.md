@@ -1,3 +1,6 @@
+
+![POC](https://user-images.githubusercontent.com/57565283/219952631-6ea87ac2-06a4-4373-8ba4-f20328377d73.gif)
+
 # Bypass-PS-Restrictions
 This repo is about bypassing Powershell restrictions such as GPO, AV and EDR.
 
@@ -13,4 +16,3 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /reference:"C:\Windows\ass
 ![Screenshot](POC1.PNG)
 ![Screenshot](POC2.PNG)
 
-![POC](https://user-images.githubusercontent.com/57565283/219952631-6ea87ac2-06a4-4373-8ba4-f20328377d73.gif)
