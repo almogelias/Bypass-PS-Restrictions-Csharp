@@ -13,6 +13,7 @@ In CMD copy and paste the following command:
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /reference:"C:\Windows\assembly\GAC_MSIL\System.Management.Automation\1.0.0.0__31bf3856ad364e35\System.Management.Automation.dll" /out:POC.exe "powershellBypass.cs"
 
 # POC
-![Screenshot](POC1.PNG)
-![Screenshot](POC2.PNG)
+
+<img width="509" alt="POC1" src="https://user-images.githubusercontent.com/57565283/219952883-35634cc5-bad0-4cfb-a649-c5ea52a30c16.PNG">
+<img width="751" alt="POC2" src="https://user-images.githubusercontent.com/57565283/219952890-321ee571-bd67-464b-b78e-f4be92a0bb5f.PNG">
 
